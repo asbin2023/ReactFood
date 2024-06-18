@@ -66,11 +66,15 @@ Start the Backend Server: <strong> node app.js</strong>
     Another terminal running the backend server.
   </li>
 </ul>
+<hr/>
 
 <h2>Demo:</h2>
 
 <img width="1406" alt="Screenshot 2024-06-18 at 5 28 47 PM" src="https://github.com/asbin2023/ReactFood/assets/134311528/833f2295-4fd3-4416-9d1a-b8a66582fcfc">
-
+<br/>
 <img width="1433" alt="Screenshot 2024-06-18 at 5 29 38 PM" src="https://github.com/asbin2023/ReactFood/assets/134311528/d8891155-31b7-4c62-b736-7b93f176ab0a">
+<br/>
 <img width="1432" alt="Screenshot 2024-06-18 at 5 30 01 PM" src="https://github.com/asbin2023/ReactFood/assets/134311528/6bf8ae45-4c4b-456c-a78b-53ab285cc229">
+<br/>
 <img width="1434" alt="Screenshot 2024-06-18 at 5 30 24 PM" src="https://github.com/asbin2023/ReactFood/assets/134311528/9de1bbde-1a67-48e8-9ffa-cb520bc416d9">
+<br/>
