@@ -5,12 +5,67 @@
 </strong>
 <br/>
 <hr/>
+<h2>
+  Acknowledgment:
+</h2>
 <p>
   The backend structure was provided by Maximilian Schwarzmüller's React course.
 <p>
   Design elements such as images, font colors, background colors, and animations were copied from Maximilian Schwarzmüller's course materials.
 </p>
 <p>All other aspects of the design, including layout, structure, and additional styling, were created by myself using Tailwind CSS.</p>
+<hr/>
+<h2>
+  How to get started:
+</h2>
+<ol>
+  <li>
+    Clone the Repository: <strong>git clone https://github.com/asbin2023/ReactFood.git</strong>
+
+  </li>
+
+  <li>
+    Navigate to the Project Directory: <strong>cd ReactFood
+</strong>
+
+
+  </li>
+  <li>
+    Install Frontend Dependencies: <strong>npm install</strong>
+  </li>
+
+  <li>
+    Start the Frontend: <strong> npm run dev</strong>
+  </li>
+  <li>
+    The ReactFood frontend should now be running locally. Check your frontend terminal for the port number</li>
+      <li>
+    Open Another Terminal
+  </li>
+   <li>
+    Navigate to the Backend Directory: <strong> cd backend
+</strong>
+  </li>
+   <li>
+   Install Backend Dependencies: <strong> npm install</strong>
+  </li>
+   <li>
+Start the Backend Server: <strong> node app.js</strong>
+  </li>
+  <li>
+    Access the ReactFood frontend by navigating to the respective port number in your web browser.
+  </li>
+  
+</ol>
+<p>Make sure both terminals are active:</p>
+<ul>
+  <li>
+    One terminal running the ReactFood frontend.
+  </li>
+  <li>
+    Another terminal running the backend server.
+  </li>
+</ul>
 
 <h2>Demo:</h2>
 
